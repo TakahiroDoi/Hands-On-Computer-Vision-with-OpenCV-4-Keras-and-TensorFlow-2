@@ -1,3 +1,9 @@
+Taka Doi (2021-10-2):   
+* Original tutorials are transported to Google Colab.
+* [cv2workaround module](https://github.com/TakahiroDoi/opencv-workaround-for-colab) is imported to use cv2.imshow on Google Colab.
+* I uploaded example image files to my Google Drive so that they can be easily read into Colab notebooks.
+
+-------
 This is the code repository for [Hands-On Computer Vision with OpenCV 4, Keras and TensorFlow 2 [Video]](https://www.packtpub.com/data/hands-on-computer-vision-with-opencv-4-keras-and-tensorflow-2-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Do you want to understand how computers see images and videos? Using artificial intelligence, we can enable computers and smart devices to interpret what is in an image (computer vision).
